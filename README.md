@@ -1,4 +1,4 @@
-# bugtracker
+# Dnd
 
 ## Project setup
 ```
