@@ -1,0 +1,89 @@
+{
+  "monstros": [
+    {
+      "id": 0,
+      "cr": 1,
+      "nome": "Dríade",
+      "tipo": "Feérico",
+      "tamanho": "Médio",
+      "alinhamento": "Neutro",
+      "ambiente": "Floresta"
+    },
+    {
+      "id": 1,
+      "cr": 21,
+      "nome": "Lich",
+      "tipo": "Morto-vivo",
+      "tamanho": "Médio",
+      "alinhamento": "Mal",
+      "ambiente": "-"
+    },
+    {
+      "id": 2,
+      "cr": 7,
+      "nome": "Mind Flayer",
+      "tipo": "Aberração",
+      "tamanho": "Médio",
+      "alinhamento": "Ordeiro e Mal",
+      "ambiente": "Underdark"
+    },
+    {
+      "id": 3,
+      "cr": "2",
+      "nome": "Mimic",
+      "tipo": "Monstruosidade",
+      "tamanho": "Médio",
+      "alinhamento": "Neutro",
+      "ambiente": "Underdark, Urbano"
+    }
+  ],
+  "magias": [
+    {
+      "id": "0",
+      "level": "3",
+      "nome": "Chill Touch",
+      "area": "120",
+      "atkSv": "Distância",
+      "dmgEff": "Necrótico"
+    },
+    {
+      "id": "1",
+      "level": "2",
+      "nome": "Crown of Madness",
+      "area": "120",
+      "atkSv": "Sabedoria",
+      "dmgEff": "Encantamento"
+    },
+    {
+      "id": "2",
+      "level": "3",
+      "nome": "Fireball",
+      "area": "150",
+      "atkSv": "Destreza",
+      "dmgEff": "Fogo"
+    }
+  ],
+  "magicItems": [
+    {
+      "id": 1,
+      "nome": "Brazeiro de Comando de Elementais de Fogo",
+      "tipo": "Item Maravilhoso",
+      "sintonizacao": "Não Requerido",
+      "notas": "Invocação"
+    },
+    {
+      "id": 2,
+      "nome": "Espada Dançarina",
+      "tipo": "Arma",
+      "sintonizacao": "Requerido",
+      "notas": "Dano, Combate"
+    },
+    {
+      "id": 3,
+      "nome": "Manilhas Dimensionais",
+      "tipo": "Item Maravilhoso",
+      "sintonizacao": "Não Requerido",
+      "notas": "Controle, Utilidade"
+    }
+  ]
+}
