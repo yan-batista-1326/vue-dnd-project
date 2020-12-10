@@ -65,21 +65,21 @@
   ],
   "magicItems": [
     {
-      "id": 1,
+      "id": 0,
       "nome": "Brazeiro de Comando de Elementais de Fogo",
       "tipo": "Item Maravilhoso",
       "sintonizacao": "Não Requerido",
       "notas": "Invocação"
     },
     {
-      "id": 2,
+      "id": 1,
       "nome": "Espada Dançarina",
       "tipo": "Arma",
       "sintonizacao": "Requerido",
       "notas": "Dano, Combate"
     },
     {
-      "id": 3,
+      "id": 2,
       "nome": "Manilhas Dimensionais",
       "tipo": "Item Maravilhoso",
       "sintonizacao": "Não Requerido",
